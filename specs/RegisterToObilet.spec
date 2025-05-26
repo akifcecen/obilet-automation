@@ -12,3 +12,11 @@ Every heading in this file denotes a scenario. Every bulleted point denotes a st
 * Write "Pasworde!1234" to Element "Şifre"
 * Click button "Üye Ol"
 * Check element existence "Hesabım" must be "visible"
+
+## Register With Random User Mail to Obilet.com
+-------------------
+* Click button "Üye Girişi"
+* Click button "Üye Ol"
+* Register with random user information
+* Click button "Üye Ol"
+* Check element existence "Hesabım" must be "visible"
